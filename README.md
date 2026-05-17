@@ -21,7 +21,7 @@ Detection uses **YOLO11s in NCNN format**, running fully offline on the Pi's ARM
 
 | Component | Details |
 |---|---|
-| **Brain** | Raspberry Pi 4B (4 GB RAM), Ubuntu 24.04 LTS |
+| **Brain** | Raspberry Pi 4B (8 GB RAM), Ubuntu 24.04 LTS |
 | **Chassis** | 4WD platform with two L298N motor driver modules |
 | **Camera** | Pi Camera (CSI), pan-controlled by SG90 servo |
 | **Sonar** | HC-SR04 ultrasonic sensor (30 cm obstacle trigger) |
