@@ -1,0 +1,42 @@
+# Simulation / CAD / URDF / Meshes
+src/car_control/launch/gazebo_sim.launch.py
+src/car_control/worlds/
+src/car_control/meshes/
+src/car_control/urdf/
+src/car_control/package.xml
+files/
+
+# Docker
+Dockerfile
+docker-compose.yml
+entrypoint.sh
+
+# Duplicate docs
+documentation.md
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# ROS2 build artifacts
+install/
+build/
+log/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
